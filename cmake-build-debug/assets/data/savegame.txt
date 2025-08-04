@@ -1,0 +1,5 @@
+Score:50
+Health:2
+Difficulty:0
+WordPackage:0
+Words:0
